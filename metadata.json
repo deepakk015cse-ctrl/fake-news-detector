@@ -1,0 +1,6 @@
+{
+  "name": "VerityAI: Fake News Detector",
+  "description": "A high-precision news analysis system using Gemini AI and classic machine learning to identify misinformation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI News Analysis", "ML Classification", "Text Preprocessing"]
+}
